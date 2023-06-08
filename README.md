@@ -14,8 +14,11 @@ Paso 3: Instalar qrcode-terminal
 
 
 integrantes:
+
 juan Carlos Lozano
+
 Javier SantaMaria
+
 Kevin Villena
 
 
