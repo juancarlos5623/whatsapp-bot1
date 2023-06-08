@@ -15,20 +15,24 @@ Paso 3: Instalar qrcode-terminal
 
 integrantes:
 
-juan Carlos Lozano
+*juan Carlos Lozano
 
-Javier SantaMaria
+*Javier SantaMaria
 
-Kevin Villena
+*Kevin Villena
 
+Pagina Web con QR para hablar con el BOT
 
 ![image](https://github.com/juancarlos5623/whatsapp-bot1/assets/127963030/ed470e1c-7abb-417c-ac7f-a959032a37c7)
 
 
 ![image](https://github.com/juancarlos5623/whatsapp-bot1/assets/127963030/bd7873da-e3f8-441e-9615-57ae7643a0b0)
 
+QR para activacion del BOT
 
 ![image](https://github.com/juancarlos5623/whatsapp-bot1/assets/127963030/1b9d7f27-dbbe-4699-b9a1-b4531cff8de1)
+
+Conversaciones del BOT
 
 
 ![image](https://github.com/juancarlos5623/whatsapp-bot1/assets/127963030/c04e7881-75e6-4e22-862e-3b1174790ddf)
